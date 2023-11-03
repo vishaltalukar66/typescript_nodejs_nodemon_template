@@ -9,27 +9,41 @@ Getting started with Typescript &amp; nodeJs with nodemon for restarting the nod
 
 
 
-## Installation
+## Run the template
 
-Install typescript_nodejs_nodemon_template with npm
+Clone the project
 
 ```bash
   git clone https://github.com/vishaltalukar66/typescript_nodejs_nodemon_template
+```
 
+Go to the project directory
+
+```bash
   cd typescript_nodejs_nodemon_template
-  npm i
 ```
-Run locally
-```bash
-npm run dev 
-```
-Generate build folder & run build
-```bash
-npm run dev 
-```
-    
-![Logo](https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=150)
 
-![Logo](https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=150)
+Install dependencies
 
-![Logo](https://cdn.iconscout.com/icon/free/png-512/free-nodemon-226039.png?f=webp&w=150)
+```bash
+  npm install
+```
+
+Run
+
+```bash
+  npm run dev
+```
+
+
+
+## Tech Stack
+
+[![Node.js](https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=150)](https://nodejs.org/en)
+
+
+[![TypeScript](https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=150)](https://www.typescriptlang.org/)
+
+[![nodemon](https://cdn.iconscout.com/icon/free/png-512/free-nodemon-226039.png?f=webp&w=150)](https://nodemon.io/)
+
+
